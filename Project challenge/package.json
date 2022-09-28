@@ -1,0 +1,12 @@
+{
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "scripts": {
+        "start": "Project1.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {}
+}
